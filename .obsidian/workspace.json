@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "063b1863216996c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2adffc5ec91f920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb880226a559c6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Introducción a la ingeniería de cohetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e084a9302e6c8609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Diseño estructural.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b1802ebe224ce23",
+    "type": "split",
+    "children": [
+      {
+        "id": "609b857a8b4e6f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2ac9f6c9251dc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2deb71db854e09b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e32290c6ab8519e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2448bb530f9cf3ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "1111b7b90bf8594b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2cac25208ebffaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Introducción a la ingeniería de cohetes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0668d68ea3c1443",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Introducción a la ingeniería de cohetes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f38ba9e4a56f91ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a8f6be0899ca721",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Introducción a la ingeniería de cohetes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb880226a559c6ed",
+  "lastOpenFiles": [
+    "00 Generalidades del curso.md",
+    "02 Diseño estructural.md",
+    "01 Introducción a la ingeniería de cohetes.md",
+    "Recursos/Manual Constructor.pdf",
+    "Recursos/Sin confirmar 582247.crdownload",
+    "Recursos/Ingeniería Aeroespacial Alfaomega.pdf",
+    "Recursos/Ingeniería Aeroespacial Alfaomega.pdf.crdownload",
+    "Recursos",
+    "Nueva carpeta",
+    "images/Pasted image 20230304105055.png",
+    "images/Pasted image 20230225124432.png",
+    "images/Pasted image 20230225124256.png",
+    "images/Pasted image 20230225124011.png",
+    "images/Pasted image 20230225123912.png",
+    "images/Pasted image 20230225123010.png",
+    "images/Pasted image 20230225122833.png",
+    "images/Pasted image 20230225120833.png",
+    "images/Pasted image 20230225120517.png",
+    "images/Pasted image 20230225111958.png",
+    "images"
+  ]
+}
