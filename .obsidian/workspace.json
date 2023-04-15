@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fbe74aff3795442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Recuperación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2448bb530f9cf3ec",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Elementos de Propulsión.md",
+                "file": "04 Recuperación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Elementos de Propulsión.md",
+                "file": "04 Recuperación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Elementos de Propulsión.md"
+                "file": "04 Recuperación.md"
               }
             }
           }
@@ -147,31 +159,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6457f391479f099e",
+  "active": "6fbe74aff3795442",
   "lastOpenFiles": [
     "03 Elementos de Propulsión.md",
     "02 Diseño estructural.md",
+    "01 Introducción a la ingeniería de cohetes.md",
+    "00 Generalidades del curso.md",
+    "04 Recuperación.md",
+    "images/Pasted image 20230414202429.png",
+    "images/Pasted image 20230414202150.png",
+    "images/Pasted image 20230414202021.png",
+    "images/Pasted image 20230414201952.png",
+    "images/Pasted image 20230414201929.png",
+    "images/Pasted image 20230414201901.png",
+    "OpenRocket/ORSave13167988636583878862.tmp",
+    "OpenRocket/ORSave5955603883062248973.tmp",
+    "images/simulación.png",
+    "images/Markov - 1 – 3.png",
+    "OpenRocket/ORSave16086827492710135610.tmp",
+    "OpenRocket/ORSave7563114034284778113.tmp",
+    "OpenRocket/ORSave5253932708967421342.tmp",
     "OpenRocket/primero_prueba.ork",
     "OpenRocket/ORSave2082710310459247994.tmp",
     "OpenRocket",
     "Nueva Carpeta",
-    "01 Introducción a la ingeniería de cohetes.md",
-    "00 Generalidades del curso.md",
     "Recursos/Manual Constructor.pdf",
-    "Recursos/Sin confirmar 582247.crdownload",
-    "Recursos/Ingeniería Aeroespacial Alfaomega.pdf",
-    "Recursos/Ingeniería Aeroespacial Alfaomega.pdf.crdownload",
-    "Recursos",
-    "Nueva carpeta",
     "images/Pasted image 20230304105055.png",
-    "images/Pasted image 20230225124432.png",
-    "images/Pasted image 20230225124256.png",
-    "images/Pasted image 20230225124011.png",
-    "images/Pasted image 20230225123912.png",
-    "images/Pasted image 20230225123010.png",
-    "images/Pasted image 20230225122833.png",
-    "images/Pasted image 20230225120833.png",
-    "images/Pasted image 20230225120517.png",
-    "images/Pasted image 20230225111958.png"
+    "images/Pasted image 20230225124432.png"
   ]
 }

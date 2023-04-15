@@ -6,6 +6,7 @@ El diseño de un cohete tiene 3 partes fundamentales, la cual es:
 Tanto la longitud del cohete, como su embergadura va a depender del diametro principal. La diferencia entre la embergadura y la altura del cohete depende si se mide a partir del suelo, siendo la altura la que se mide desde el suelo hasta el límite de la ala.
 
 La longitud del fuselaje se divide entre la primera fase oi estado y la fase neutral, donde la primera fase tiene el subsistema de propulsión (tobera, ignición), y la fase neutral tiene el segmento de aviónica, el subsistema de eyección y descenso y en su caso carga útil.
+![[Pasted image 20230414202150.png]]
 
 ## Nariz o Cono de Morro
 
@@ -17,6 +18,7 @@ Es la sección superior del fuselaje de un cohete o misil, diseñada para:
 El problema del diseño aerodinámico de cualquier vehículo o cuerpo destinado a viajar a través del fluido compresible (como un cohete, aviones, misiles o una bala), es el diseño del cono de morro para conseguir un rendimiento óptimo.
 
 Para la mayoría de las aplicaciones, esta tarea requiere la definición de un sólido de revolución, de forma que experimente resistencia mínima al movimiento a través del medio fluido.
+![[Pasted image 20230414202429.png]]
 
 ### Parámetros de diseño del perfil.
 La nariz va de la punta a la base, siendo esta longitud la longitud del morro

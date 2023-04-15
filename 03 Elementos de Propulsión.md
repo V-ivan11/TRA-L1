@@ -53,3 +53,4 @@ A diefrencia de los otros propegoles, una vez que se ha iniciado la reacción te
 El propergol sólido puede ser homogéneo o heterogéneo, donde el reductor y el oxidante están contenidos en una misma molécula, mientras que en el heterogéneo el reductor y el oxidante forman una mezcla y estos no forman enlaces químicos.
 
 La eficiencia del empuje dependerá de la geometría de la cavidad hueca del grano.
+

@@ -79,13 +79,14 @@ La base del cilindro corresponde al territorio soberado de un país cuyo períme
 ## Aeronave
 Es un vehículo o máquina capaz de desplazarse a través de una Atmósfera Planetaria con apoyo de las fuerzas de sustentación generadas por el fluido atmósferico sin tener contacto con la superficie planetaria.
 Un cohete experimental si es una aeronave porque en el momento que se termina el combustible posee una fuerza de sustentación por el aire, sin tener contacto con la superficie planetaria.
-*fuerzas*
+
+![[Pasted image 20230414201901.png]]
 
 Un cohete debe tener una cámara de combustión (propulsor) y una Tobera (donde salen los gases de la propulsión) y estos elementos pueden servir sin la presencia del aire.
 
 ## ¿Por qué vuela un cohete?
 Aceleración, momento lineal (con masa variable), velocidad, peso, fuerza inercial, fuerza de arrastre. Fuerza de propulsión $jet$.
+![[Pasted image 20230414201929.png]]
 ## Ecuación de Tsiolkovsky
--
-## Misil A4/V4 (Aggregat 4/ Vergeltungswaffe 2)
--
+![[Pasted image 20230414201952.png]]
+![[Pasted image 20230414202021.png]]
